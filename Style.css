@@ -5,7 +5,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: 'Inter', sans-serif;
   background: #1A0B2E;
@@ -599,7 +598,6 @@ body {
   transition: all 0.3s ease;
   cursor: pointer;
 }
-
 .footer-link-item img {
   width: 24px;
   height: 24px;
@@ -624,8 +622,6 @@ body {
   padding-top: 30px;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
-
-
 @media (max-width: 992px) {
   .nav-menu {
     display: none;
